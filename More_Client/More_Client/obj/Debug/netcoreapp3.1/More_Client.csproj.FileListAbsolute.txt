@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\bin\Debug\netcoreapp3.1\More_Client.exe
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\bin\Debug\netcoreapp3.1\More_Client.deps.json
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\bin\Debug\netcoreapp3.1\More_Client.runtimeconfig.json
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\bin\Debug\netcoreapp3.1\More_Client.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\bin\Debug\netcoreapp3.1\More_Client.dll
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\bin\Debug\netcoreapp3.1\More_Client.pdb
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.dll
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.pdb
+C:\Users\Admin\Desktop\C# projects\More_Client\More_Client\obj\Debug\netcoreapp3.1\More_Client.genruntimeconfig.cache
